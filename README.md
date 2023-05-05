@@ -7,7 +7,13 @@ https://github.com/bdincerTrader/forwardTesting
 https://github.com/bdincerTrader/forwardTesting/commit/25e893e4fc10983e2f37983ab6b9bff7fee89feb#comments
 
 
-
-
 ## BACKTEST LOGS
 https://github.com/bdincerTrader/outputTradeLogs
+
+![image](https://user-images.githubusercontent.com/127531384/236575552-c0ffc395-288f-4262-8588-a94b6035efff.png)
+
+@50K
+![image](https://user-images.githubusercontent.com/127531384/236575581-300e5c92-02d5-4b7e-a511-2bbd8449037a.png)
+
+
+
