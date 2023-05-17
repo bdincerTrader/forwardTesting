@@ -18,6 +18,8 @@ https://github.com/bdincerTrader/outputTradeLogs
 ![dincer](https://user-images.githubusercontent.com/127531384/236715603-b042ff2c-0581-4ee8-afbe-9d658ee35de1.png)
 
 
+![image](https://github.com/bdincerTrader/forwardTesting/assets/127531384/62899295-4287-4d4d-8613-9a3a54ef6f8a)
+
 
 
 blotters	
