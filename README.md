@@ -1,6 +1,10 @@
 ## FORWARD TESTING REPO
 https://github.com/bdincerTrader/forwardTesting
 
+[results_Scorecard](https://github.com/bdincerTrader/forwardTesting/files/11503247/results_Scorecard-AMC.REJECTS.pdf)
+
+
+
 ### 2023-05-05
 ![image](https://user-images.githubusercontent.com/127531384/236570485-fb57503f-5fd1-4b6e-abd0-c2403f8c707c.png)
 
